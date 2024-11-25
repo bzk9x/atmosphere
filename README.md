@@ -130,7 +130,7 @@ A beautiful, minimalist application designed to enhance focus and relaxation thr
 
 ## Support
 
-For issues, questions, or feedback, please visit our support page or create an issue in the repository.
+For issues, questions, or feedback, create an issue in the repository.
 
 ---
 
